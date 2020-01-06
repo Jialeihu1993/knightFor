@@ -1,6 +1,6 @@
 {
   "name": "hjl-btn",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "基于Vue的UI插件",
   "main": "lib/st-vue-ui.js",
   "scripts": {
