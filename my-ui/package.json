@@ -1,14 +1,14 @@
 {
-  "name": "my-ui",
+  "name": "hjl-btn",
   "version": "1.0.0",
-  "description": "",
+  "description": "基于Vue的UI插件",
   "main": "lib/st-vue-ui.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c rollup.config.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "hujialei",
   "private": false, 
   "license": "ISC",
   "dependencies": {
